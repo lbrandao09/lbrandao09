@@ -1,6 +1,7 @@
 ## Meu nome é Lucas Brandão
 
-Estou estudando na Alura
+Estou estudando na [Alura](https://www.Alura.com.br)
+
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
@@ -18,3 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ### Você quer entrar em contato comigo 
+ @lucas.brandao.lima@escola.pr.gov.br
+ 
+
+
+![](https://media1.tenor.com/m/ZjKM4ag5O4EAAAAd/neyney-neymar.gif)
